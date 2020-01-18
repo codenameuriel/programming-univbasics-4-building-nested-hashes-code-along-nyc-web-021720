@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here: 
-  return 
+  :Montague[:hero][:status] = 
 
   
 
