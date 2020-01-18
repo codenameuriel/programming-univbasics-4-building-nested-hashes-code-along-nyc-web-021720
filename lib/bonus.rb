@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here: 
-  :Montague[:hero][:status] = 
+  :Montague[:hero][:status] = "dead"
 
   
 
